@@ -2,12 +2,12 @@
 Themenorientierte Textdokumente ("Mini-Tafelwerk") für die Casio fx-9860 Reihe.\
 Autor: Aaron Müller\
 \
-Benutzung:\
-1. Dateien herunterladen\
-2. Taschenrechner verbinden, mit F1 USB-Massenspeicher auswählen\
-3. Dateien ins root rüberschieben\
-Oder die Macht der Mundpropaganda nutzen (Taschenrechner zu Taschenrechner mit Klinke-Kabel)\
-\
+Benutzung:
+1. Dateien herunterladen
+2. Taschenrechner verbinden, mit F1 USB-Massenspeicher auswählen
+3. Dateien ins root rüberschieben
+Oder die Macht der Mundpropaganda nutzen (Taschenrechner zu Taschenrechner mit Klinke-Kabel)
+
 Hinweise:\
 -GENERELLE EMPFEHLUNG: Felix Wittwers ABI 25 Programm (https://github.com/felixwittwer/casio_abi_math_2025) \
 -Dateienden auf PH stehen für Physik, CH für Chemie und MA für Mathematik\
